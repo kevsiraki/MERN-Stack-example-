@@ -1,0 +1,1 @@
+mongodb+srv://mern:<password>@cluster0.7hnrj.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
